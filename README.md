@@ -291,7 +291,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [amazee.io](https://www.amazee.io/careers) - Open source container hosting - high-performance flexible solutions. Kubernetes, TypeScript (Node.js and React), Go, GraphQL.
   1. [Ameego](http://ameego.ca/) - Restaurant scheduling software.
   1. [Arkency](https://arkency.com/join-our-team/) - Rails and React.js experts, fully remote/async.
-  1. [Articulate](https://articulate.com/company/careers.php) - EdTech. Makes software that helps teachers make e-learning courses. Ruby, Node, C#, and .NET for Windows app.
+  1. [Articulate](https://www.articulate.com/about/careers/) - EdTech. Makes software that helps teachers make e-learning courses. Ruby, Node, C#, and .NET for Windows app.
   1. [AT&T](https://att.jobs) - Nearly [20% of the eligible workforce](https://www.att.com/Common/about_us/files/csr_2012/worklife_balance.pdf) works remotely.
   1. [Auth0](https://auth0.com/jobs) - Zero-friction authentication and authorization for developers.
   1. [Authentic F & F](https://authenticff.com/) - Independent design and technology studio based in Denver and Minnesota
